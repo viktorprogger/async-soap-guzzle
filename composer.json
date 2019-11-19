@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.5.0",
         "meng-tian/php-async-soap": "~1.0",
-        "viktorprogger/soap-http-binding": "dev-master",
+        "meng-tian/soap-http-binding": "dev-master",
         "guzzlehttp/guzzle": "^6.1"
     },
     "require-dev": {
@@ -23,7 +23,7 @@
     },
     "repositories": [
         {
-            "name": "viktorprogger/soap-http-binding",
+            "name": "meng-tian/soap-http-binding",
             "type": "vcs",
             "url": "https://github.com/viktorprogger/soap-http-binding"
         }
