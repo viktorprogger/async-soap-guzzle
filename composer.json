@@ -23,7 +23,7 @@
     },
     "repositories": [
         {
-            "name": "meng-tian/soap-http-binding"",
+            "name": "meng-tian/soap-http-binding",
             "type": "vcs",
             "url": "https://github.com/viktorprogger/soap-http-binding"
         }
