@@ -1,5 +1,5 @@
 {
-    "name": "meng-tian/async-soap-guzzle",
+    "name": "viktorprogger/async-soap-guzzle",
     "description": "An asynchronous SOAP client build on top of Guzzle.",
     "keywords": ["SOAP", "asynchronous", "Guzzle"],
     "license": "MIT",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "meng-tian/php-async-soap": "~1.0",
-        "meng-tian/soap-http-binding": "dev-master",
+        "viktorprogger/php-async-soap": "~1.0",
+        "viktorprogger/soap-http-binding": "dev-master",
         "guzzlehttp/guzzle": "^6.1"
     },
     "require-dev": {
